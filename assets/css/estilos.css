@@ -1,0 +1,40 @@
+p{
+    display: inline-block;
+}
+
+
+.bloque1{
+    background-color: #ef476f;
+    display: inline-block;
+    width: 30%;
+}
+
+.bloque2{
+    background-color:#ffd166 ;
+    display: inline-block;
+    width: 30%;
+    margin:10px;
+    padding: 10px;
+    border: 3px #333333 solid;
+}
+
+.bloque3{
+    background-color: #06d6a0 ;
+    display: inline-block;
+    width: 30%;
+
+}
+
+.menu li{
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    list-style: none;
+}
+
+.menu li a{
+    color: #333;
+    text-decoration: none;
+}
